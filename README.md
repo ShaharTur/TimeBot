@@ -1,5 +1,11 @@
 <h1 align="center">introducing TimeBot</h1>
 
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ShaharTur/TimeBot/blob/Discord-TimeBot/pngwing.com.png))
+
+
+
+
+
 As i continue to learn and becoming more knowledgeable on the field of data and data analysis , i wanted to create something different . 
 as you read the title you probably understand that i created a bot on Discord . 
 this bot collecting data for the users joining my server and with the help of Google api's the data is saving on a csv file which is a spreadsheet on google . 
