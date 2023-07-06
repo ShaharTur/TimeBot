@@ -1,6 +1,6 @@
 <h1 align="center">introducing TimeBot</h1>
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ShaharTur/TimeBot/blob/Discord-TimeBot/pngwing.com.png))
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/ShaharTur/TimeBot/blob/Discord-TimeBot/pngwing.com.png))
 
 
 
