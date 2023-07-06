@@ -1,4 +1,4 @@
-###Introducing TimeBot ! 
+<h1 align="center">introducing TimeBot</h1>
 
 As i continue to learn and becoming more knowledgeable on the field of data and data analysis , i wanted to create something different . 
 as you read the title you probably understand that i created a bot on Discord . 
