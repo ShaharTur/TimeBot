@@ -1,8 +1,13 @@
 <h1 align="center">introducing TimeBot!</h1>
+
+
+
 <p align="center">
 ![alt text](pngwing.com.png)
 </p>
-
+<p align="center">
+  <img width="460" height="300" src="pngwing.com.png">
+</p>
 
 
 
