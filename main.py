@@ -97,10 +97,9 @@ async def on_voice_state_update(member,before,after):
     join_time_calc=dt.datetime.combine(dt.date(1900,1,1),join_time_calc)
     duration=leaving_time_calc-join_time_calc
     duration = duration.total_seconds()
-    #this if statement prevents the confusion in the code which user joins before 00:00 and leaving after 00:00 which prints on the spread sheet a minus value that is incorrect
+    #this if statement prevents the confusion in the code which user joins before 00:00 and leaving after 00:00 which prints on the spread sheet a minus value that is incorrect.
     if duration <0 :
-      duration_next_day = int(join_time_calc - leaving_time_calc)
-      duration_next_day = duration.total_seconds()
+      duration_next_day = duration +86400
       last_values =[[leaving_time,duration_next_day]]
       worksheet.update(range_address,last_values)
     else:
